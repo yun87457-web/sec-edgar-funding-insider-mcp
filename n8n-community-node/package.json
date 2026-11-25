@@ -1,0 +1,15 @@
+{
+  "name": "n8n-nodes-filingsignal-sec-edgar",
+  "version": "1.0.0",
+  "description": "n8n community node scaffold for SEC EDGAR Form D, Form 4 & Form 8-K",
+  "keywords": [
+    "n8n-community-node-package",
+    "n8n",
+    "sec-edgar",
+    "form-d",
+    "form-4",
+    "insider-trading"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yun87457-web/sec-edgar-funding-insider-mcp"
+}

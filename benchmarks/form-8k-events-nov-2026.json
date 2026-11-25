@@ -1,0 +1,1454 @@
+[
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0002031750-26-000083",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0002031750",
+    "companyName": "Ares Core Infrastructure Fund  (CIK 0002031750)",
+    "items": [
+      "1.01",
+      "2.03",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "2.03: Creation of a Direct Financial Obligation",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 2.03: Creation of a Direct Financial Obligation | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 1.01 Entry into a Material Definitive Agreement. Amendment No. 1 to ACI Portfolio Aggregator Credit Agreement On November 18, 2026, ACI Portfolio Aggregator SPV LLC, a Delaware limited liability company (the \u201cBorrower\u201d) and a wholly owned subsidiary of Ares Core Infrastructure Fund, a Delaware statutory trust (the \u201cFund\u201d), entered into Amendment No. 1 (the \u201cAmendment\u201d) to its Revolving Credit Agreement, dated as of April 14, 2025 (as amended by the Amendment and as further...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "aci-20261118.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000083/aci-20261118.htm"
+      },
+      {
+        "type": "EX-10.1",
+        "filename": "exhibit101amendmenttorevol.htm",
+        "description": "EX-10.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000083/exhibit101amendmenttorevol.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "aci-20261118.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000083/aci-20261118.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "aci-20261118_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000083/aci-20261118_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "aci-20261118_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000083/aci-20261118_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000083/0002031750-26-000083-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001964738-26-000061",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001964738",
+    "companyName": "Solventum Corp  (SOLV)  (CIK 0001964738)",
+    "ticker": "SOLV",
+    "exchange": "NYSE",
+    "items": [
+      "5.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/boardrefreshmentpressrelea.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 boardrefreshmentpressrelea.htm EX-99.1 Document EXHIBIT 99.1 Solventum Appoints Steven H. Collis and Hassan A. Elmasry to Board of Directors Addition of two independent directors brings healthcare leadership and investment expertise to support Solventum's continued transformation EAGAN, Minn., November 24, 2026 \u2013 Solventum (NYSE: SOLV) today announced the appointment of two new independent directors, Steven H. Collis, former Chair, President and Chief Executive Officer of Cencora...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "solv-20261123.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/solv-20261123.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "boardrefreshmentpressrelea.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/boardrefreshmentpressrelea.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "solv-20261123.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/solv-20261123.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "solv-20261123_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/solv-20261123_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "solv-20261123_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/solv-20261123_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/0001964738-26-000061-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001939433-26-000191",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001939433",
+    "companyName": "Cohen & Steers Income Opportunities REIT, Inc.  (CIK 0001939433)",
+    "items": [
+      "7.01"
+    ],
+    "itemDescriptions": [
+      "7.01: Regulation FD Disclosure"
+    ],
+    "eventSummary": "7.01: Regulation FD Disclosure",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 7.01. Regulation FD Disclosure. November 2026 Distributions On November 24, 2026, the Company declared distributions for each class of its common stock outstanding in the amount per share set forth below for record holders as of the date set forth above the table: November 30, 2026 Record Date Gross Distribution Stockholder Servicing Fee Net Distribution Class I Common Stock $ 0.0435 $ \u2014 $ 0.0435 Class F-I Common Stock $ 0.0435 $ \u2014 $ 0.0435 Class P Common Stock $ 0.0435 $ \u2014 $ 0.0435...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "cnsreit-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000191/cnsreit-20261124.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "cnsreit-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000191/cnsreit-20261124.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "cnsreit-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000191/cnsreit-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "cnsreit-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000191/cnsreit-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000191/0001939433-26-000191-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001930087-26-000138",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001930087",
+    "companyName": "Golub Capital Private Credit Fund  (CIK 0001930087)",
+    "items": [
+      "7.01",
+      "8.01"
+    ],
+    "itemDescriptions": [
+      "7.01: Regulation FD Disclosure",
+      "8.01: Other Events"
+    ],
+    "eventSummary": "7.01: Regulation FD Disclosure | 8.01: Other Events",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 7.01. Regulation FD Disclosures. November 2026 Distributions As previously disclosed, on November 12, 2026, Golub Capital Private Credit Fund (the \u201cFund\u201d) declared regular distributions for its Class I common shares of beneficial interest (the \u201cClass I Shares\u201d) and Class S common shares of beneficial interest (the \u201cClass S Shares\u201d) in the amount per share set forth below: Regular Distribution (1) Shareholder Servicing and/or Distribution Fee (2) Net Distribution November 2026...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "gcred-20261120.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000138/gcred-20261120.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "gcred-20261120.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000138/gcred-20261120.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "gcred-20261120_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000138/gcred-20261120_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "gcred-20261120_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000138/gcred-20261120_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000138/0001930087-26-000138-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001911321-26-000046",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001911321",
+    "companyName": "Kennedy Lewis Capital Co  (CIK 0001911321)",
+    "items": [
+      "1.01",
+      "2.03",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "2.03: Creation of a Direct Financial Obligation",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 2.03: Creation of a Direct Financial Obligation | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 1.01. Entry into a Material Definitive Agreement. On November 19, 2026 (the \u201cClosing Date\u201d), KLCC SPV JPM1 LLC, a Delaware limited liability company (the \u201cSPV\u201d) and a wholly owned subsidiary of Kennedy Lewis Capital Company (the \u201cCompany\u201d), entered into a loan and security agreement (the \u201cLoan and Security Agreement\u201d) providing for a senior secured credit facility (the \u201cSecured Credit Facility\u201d) with JPMorgan Chase Bank, National Association (\u201cJPM\u201d) and the other...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "ck0001911321-20261119.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000046/ck0001911321-20261119.htm"
+      },
+      {
+        "type": "EX-10.1",
+        "filename": "ck0001911321-ex10_1.htm",
+        "description": "EX-10.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000046/ck0001911321-ex10_1.htm"
+      },
+      {
+        "type": "EX-10.2",
+        "filename": "ck0001911321-ex10_2.htm",
+        "description": "EX-10.2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000046/ck0001911321-ex10_2.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "ck0001911321-20261119.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000046/ck0001911321-20261119.xsd"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000046/0001911321-26-000046-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001901612-26-000045",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001901612",
+    "companyName": "Golub Capital BDC 4, Inc.  (CIK 0001901612)",
+    "items": [
+      "2.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/gbdc4fy2026q4epfinal.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 gbdc4fy2026q4epfinal.htm EX-99.1 gbdc4fy2026q4epfinal \u00a9 2026 GOLUB CAPITAL LLC GOLUB CAPITAL BDC 4, INC. EARNINGS PRESENTATION | QUARTER ENDED SEPTEMBER 30, 2026 2 Such forward-looking statements may include statements preceded by, followed by or that otherwise include the words \u201cmay,\u201d \u201cmight,\u201d \u201cwill,\u201d \u201cintend,\u201d \u201cshould,\u201d \u201ccould,\u201d \u201ccan,\u201d \u201cwould,\u201d \u201cexpect,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201canticipate,\u201d \u201cpredict,\u201d \u201cpotential,\u201d \u201cplan\u201d...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "gbdc4-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/gbdc4-20261124.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "gbdc4fy2026q4epfinal.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/gbdc4fy2026q4epfinal.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "gbdc4-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/gbdc4-20261124.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "gbdc4-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/gbdc4-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "gbdc4-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/gbdc4-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000045/0001901612-26-000045-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001872789-26-000037",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001872789",
+    "companyName": "Embecta Corp.  (EMBC)  (CIK 0001872789)",
+    "ticker": "EMBC",
+    "exchange": "Nasdaq",
+    "items": [
+      "2.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1872789/000187278926000037/q42026ex-991.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 q42026ex-991.htm EX-99.1 Document Exhibit 99.1 Embecta Corp. Reports Fiscal 2026 Fourth Quarter and Full Year Financial Results; Provides Initial Fiscal Year 2027 Financial Guidance PARSIPPANY, N.J., November 24, 2026 (GLOBE NEWSWIRE) \u2013 Embecta Corp. (\u201cembecta\u201d or the \"Company\") (Nasdaq: EMBC), a global company that is advancing its 100-year legacy in insulin delivery to become a broad-based medical supplies company, today reported financial results for the three- and...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "q42026ex-991.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1872789/000187278926000037/q42026ex-991.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1872789/000187278926000037/0001872789-26-000037-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001856437-26-000026",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001856437",
+    "companyName": "Victoria's Secret & Co.  (VSXY)  (CIK 0001856437)",
+    "ticker": "VSXY",
+    "exchange": "NYSE",
+    "items": [
+      "5.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643726000026/ex991vsxynovember2420268-k.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 ex991vsxynovember2420268-k.htm PRESS RELEASE Document Exhibit 99.1 Victoria\u2019s Secret & Co. Announces Board Chair Succession Donna James to Retire from the Board of Directors at 2027 Annual Meeting Independent Director Rod Little Elected as Next Chair, Effective Following 2027 Annual Meeting Reynoldsburg, Ohio (November 24, 2026) \u2014 Victoria\u2019s Secret & Co. (\u201cVS&Co\u201d or the \u201cCompany\u201d) (NYSE: VSXY) today announced that Donna James, who has served as Chair of the Board of...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "ex991vsxynovember2420268-k.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643726000026/ex991vsxynovember2420268-k.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1856437/000185643726000026/0001856437-26-000026-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001856365-26-000122",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001856365",
+    "companyName": "Finwise Bancorp  (FINW)  (CIK 0001856365)",
+    "ticker": "FINW",
+    "exchange": "Nasdaq",
+    "items": [
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/prsecuritization112426.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 prsecuritization112426.htm EX-99.1 Document Exhibit 99.1 FinWise Bancorp Announces Completion of SBA 7(a) Unguaranteed Loan Securitization Contributes approximately $32.6 million of SBA 7(a) unguaranteed balances to a $100.0 million multi-lender rated securitization MURRAY, Utah, November 24, 2026 (GLOBE NEWSWIRE) -- FinWise Bancorp (NASDAQ: FINW) (\u201cFinWise\u201d or the \u201cCompany\u201d), parent company of FinWise Bank (the \u201cBank\u201d), today announced that the Bank has completed the sale...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "finw-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/finw-20261124.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "prsecuritization112426.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/prsecuritization112426.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "finw-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/finw-20261124.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "finw-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/finw-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "finw-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/finw-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000122/0001856365-26-000122-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001829126-26-012800",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001979414",
+    "companyName": "NEONC TECHNOLOGIES HOLDINGS, INC.  (NTHI)  (CIK 0001979414)",
+    "ticker": "NTHI",
+    "exchange": "Nasdaq",
+    "items": [
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012800/neonctechnologies_ex99-1.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 neonctechnologies_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 NeOnc Technologies Announces FDA Rescheduled NEO212 End-of-Phase 1 Type B Meeting to November 23 Meeting will address Phase 2 study design and potential regulatory pathways for oral NEO212 CALABASAS, Calif., Nov. 19, 2026 -- NeOnc Technologies Holdings, Inc. (Nasdaq: NTHI) (\u201cNeOnc\u201d or the \u201cCompany\u201d), a clinical-stage biopharmaceutical company developing therapies for central nervous system (CNS) cancers, today announced...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "neonctechnologies_ex99-1.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012800/neonctechnologies_ex99-1.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012800/0001829126-26-012800-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001821268-26-000209",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001495825",
+    "companyName": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust  (GBAB)  (CIK 0001495825)",
+    "ticker": "GBAB",
+    "exchange": "NYSE",
+    "items": [
+      "1.01",
+      "8.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "8.01: Other Events",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 8.01: Other Events | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1495825/000182126826000209/ex9911.htm",
+    "pressReleaseExcerpt": "EX-1.01 2 ex9911.htm THIRD AMENDMENT TO CONTROLLED EQUITY OFFERING SALES AGREEMENT GUGGENHEIM TAXABLE MUNICIPAL BOND & INVESTMENT GRADE DEBT TRUST COMMON SHARES (PAR VALUE $0.01 PER SHARE) THIRD AMENDMENT TO CONTROLLED EQUITY OFFERING SM SALES AGREEMENT November 20, 2026 THIS THIRD AMENDMENT (this \u201c Third Amendment \u201d) to the Sales Agreement (defined below) is entered into on and as of November 20, 2026, by and among Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust, a...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "ex9911.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1495825/000182126826000209/ex9911.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1495825/000182126826000209/0001821268-26-000209-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001809519-26-000231",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001809519",
+    "companyName": "GoodRx Holdings, Inc.  (GDRX)  (CIK 0001809519)",
+    "ticker": "GDRX",
+    "exchange": "Nasdaq",
+    "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)",
+      "8.01: Other Events",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings) | 8.01: Other Events | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrxq326-exx991pressrelease.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 gdrxq326-exx991pressrelease.htm EX-99.1 GDRX Q3'26 - EX-99.1 (Press Release) Exhibit 99.1 GOODRX REPORTS THIRD QUARTER 2026 RESULTS AND PROVIDES UPDATE ON COMPLIANCE WITH NASDAQ LISTING REQUIREMENTS Pharma Direct and Subscription Revenue Increased 93% and 41% , Respectively, Year-Over-Year Company Raises Full-Year 2026 Revenue and Adjusted EBITDA Expectations SANTA MONICA, Calif. -- ( November 24, 2026 ) -- GoodRx Holdings, Inc. (Nasdaq: GDRX) (\"we,\" \"us,\" \"our,\" \u201cGoodRx,\u201d or the...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "gdrx-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrx-20261124.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "gdrxq326-exx991pressrelease.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrxq326-exx991pressrelease.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "gdrx-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrx-20261124.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "gdrx-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrx-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "gdrx-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrx-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/0001809519-26-000231-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001738827-26-000089",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001738827",
+    "companyName": "KLX Energy Services Holdings, Inc.  (KLXE)  (CIK 0001738827)",
+    "ticker": "KLXE",
+    "exchange": "Nasdaq",
+    "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)",
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings) | 7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxcompanypresentationq3.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 klxcompanypresentationq3.htm EX-99.1 klxcompanypresentationq3 Q3 2026 1 Company Presentation Forward-Looking Statements Cautionary Statement on Forward-looking Statements This presentation contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act. This presentation includes forward-looking statements that reflect our current expectations, projections and goals relating to our future results...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "klxe-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxe-20261124.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "klxcompanypresentationq3.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxcompanypresentationq3.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "klxe-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxe-20261124.xsd"
+      },
+      {
+        "type": "EX-101.DEF",
+        "filename": "klxe-20261124_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxe-20261124_def.xml"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "klxe-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxe-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "klxe-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxe-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/0001738827-26-000089-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001705284-26-000016",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001705284",
+    "companyName": "Private Bancorp of America, Inc.  (PBAM)  (CIK 0001705284)",
+    "ticker": "PBAM",
+    "exchange": "Nasdaq",
+    "items": [
+      "5.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On November 20, 2026, the Boards of Directors (collectively, the \u201cBoards\u201d) of Private Bancorp of America, Inc. (the \u201cCompany\u201d) and its wholly-owned subsidiary CalPrivate Bank (the \u201cBank\u201d) awarded Cory Stewart, Executive Vice President and Chief Financial Officer of the Company and the Bank, a restricted stock grant and approved...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "pbam-20261120.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000016/pbam-20261120.htm"
+      },
+      {
+        "type": "EX-10.1",
+        "filename": "pbam-ex10_1.htm",
+        "description": "EX-10.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000016/pbam-ex10_1.htm"
+      },
+      {
+        "type": "EX-10.2",
+        "filename": "pbam-ex10_2.htm",
+        "description": "EX-10.2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000016/pbam-ex10_2.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "pbam-20261120.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000016/pbam-20261120.xsd"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1705284/000170528426000016/0001705284-26-000016-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001692951-26-000229",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001692951",
+    "companyName": "Cottonwood Communities, Inc.  (CIK 0001692951)",
+    "items": [
+      "1.01",
+      "3.03",
+      "5.03",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "3.03: Material Modification to Rights of Security Holders",
+      "5.03: Amendments to Articles of Incorporation or Bylaws",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 3.03: Material Modification to Rights of Security Holders | 5.03: Amendments to Articles of Incorporation or Bylaws | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 1.01 Entry into a Material Definitive Agreement. Amendment to Operating Partnership Agreement On November 23, 2026, in connection with the designation of the shares of Series 2027 preferred stock of the Company, par value $0.01 per share, (the \"Series 2027 Preferred Stock\") as described below in Item 3.03, Cottonwood Communities, Inc. (the \"Company,\" \"we,\" \"our,\" or \"us\"), as the sole member of the sole general partner of Cottonwood Residential O.P., LP, the operating partnership...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "cci-20261123.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/cci-20261123.htm"
+      },
+      {
+        "type": "EX-3.1",
+        "filename": "cottonwood-2027preferredxa.htm",
+        "description": "EX-3.1 ARTICLES SUPPLEMENTARY- SERIES 2027",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/cottonwood-2027preferredxa.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "cci-20261123.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/cci-20261123.xsd"
+      },
+      {
+        "type": "EX-101.DEF",
+        "filename": "cci-20261123_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/cci-20261123_def.xml"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "cci-20261123_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/cci-20261123_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "cci-20261123_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/cci-20261123_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000229/0001692951-26-000229-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001683168-26-009082",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0000774415",
+    "companyName": "King Resources Global, Inc.  (KRFG)  (CIK 0000774415)",
+    "ticker": "KRFG",
+    "exchange": "OTC",
+    "items": [
+      "5.02"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On November 24, 2026, King Resources Global, Inc. (the \u201cCompany\u201d) appointed Dr. Chang Yuen CHAN and Dr. Man Chung CHAN as Independent Directors of the Company. The new appointment was approved by the Board of Directors and became effective on November 24, 2026. Dr. Chang Yuen CHAN is a CTO at Xtreme Business Enterprises Ltd. He holds a...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "king_8k.htm",
+        "description": "CURRENT REPORT",
+        "url": "https://www.sec.gov/Archives/edgar/data/774415/000168316826009082/king_8k.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "krfg-20261124.xsd",
+        "description": "XBRL SCHEMA FILE",
+        "url": "https://www.sec.gov/Archives/edgar/data/774415/000168316826009082/krfg-20261124.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "krfg-20261124_lab.xml",
+        "description": "XBRL LABEL FILE",
+        "url": "https://www.sec.gov/Archives/edgar/data/774415/000168316826009082/krfg-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "krfg-20261124_pre.xml",
+        "description": "XBRL PRESENTATION FILE",
+        "url": "https://www.sec.gov/Archives/edgar/data/774415/000168316826009082/krfg-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/774415/000168316826009082/0001683168-26-009082-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001662991-26-000194",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001662991",
+    "companyName": "Sezzle Inc.  (SEZL)  (CIK 0001662991)",
+    "ticker": "SEZL",
+    "exchange": "Nasdaq",
+    "items": [
+      "1.01",
+      "2.03",
+      "5.05",
+      "5.07",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "2.03: Creation of a Direct Financial Obligation",
+      "5.05: Amendments to the Registrant's Code of Ethics",
+      "5.07: Submission of Matters to a Vote of Security Holders",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 2.03: Creation of a Direct Financial Obligation | 5.05: Amendments to the Registrant's Code of Ethics | 5.07: Submission of Matters to a Vote of Security Holders | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 1.01. Entry into a Material Definitive Agreement. On November 18, 2026, Sezzle Inc. (\u201cSezzle\u201d or the \u201cCompany\u201d) and WebBank, a Utah-chartered industrial bank (\u201cWebBank\u201d), entered into a First Amendment to Second Amended and Restated Loan and Receivables Sale Agreement and a First Amendment to Second Amended and Restated Marketing and Servicing Agreement (together, the \u201cAmendments\u201d). The Amendments amend the Second Amended and Restated Loan and Receivables Sale Agreement and...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "sezl-20261118.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118.htm"
+      },
+      {
+        "type": "EX-10.1",
+        "filename": "sezl-20261118ex1001.htm",
+        "description": "EX-10.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118ex1001.htm"
+      },
+      {
+        "type": "EX-10.2",
+        "filename": "sezl-20261118ex1002.htm",
+        "description": "EX-10.2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118ex1002.htm"
+      },
+      {
+        "type": "EX-14.1",
+        "filename": "sezl-20261118ex1401.htm",
+        "description": "EX-14.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118ex1401.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "sezl-20261118.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "sezl-20261118_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "sezl-20261118_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/sezl-20261118_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000194/0001662991-26-000194-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001655210-26-000086",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001655210",
+    "companyName": "BEYOND MEAT, INC.  (BYND)  (CIK 0001655210)",
+    "ticker": "BYND",
+    "exchange": "Nasdaq",
+    "items": [
+      "5.02"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. (b) On November 21, 2026, Raymond J. Lane, a Class III director and a member of the Human Capital Management and Compensation Committee of the board of directors (the \u201cBoard\u201d) of Beyond Meat, Inc. (the \u201cCompany\u201d), passed away unexpectedly at the age of 79. In 2011, Mr. Lane led the first institutional investment in Beyond Meat as a...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "bynd-20261121.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1655210/000165521026000086/bynd-20261121.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "bynd-20261121.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1655210/000165521026000086/bynd-20261121.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "bynd-20261121_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1655210/000165521026000086/bynd-20261121_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "bynd-20261121_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1655210/000165521026000086/bynd-20261121_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1655210/000165521026000086/0001655210-26-000086-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075782",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0000933974",
+    "companyName": "Azenta, Inc.  (AZTA)  (CIK 0000933974)",
+    "ticker": "AZTA",
+    "exchange": "Nasdaq",
+    "items": [
+      "5.02"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers . On November 19, 2026, Dipal Doshi notified Azenta, Inc. (the \u201cCompany\u201d) of his decision not to stand for reelection to the Company\u2019s Board of Directors (the \u201cBoard\u201d) at the Company\u2019s next Annual Meeting of Shareholders, scheduled to be held on January 26, 2027 (the \u201cAnnual Meeting\u201d). Mr. Doshi has not resigned from the...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "azta-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026075782/azta-20261124.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "azta-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026075782/azta-20261124.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "azta-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026075782/azta-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "azta-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026075782/azta-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/933974/000162828026075782/0001628280-26-075782-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075757",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001840780",
+    "companyName": "Local Bounti Corporation/DE  (LOCL)  (CIK 0001840780)",
+    "ticker": "LOCL",
+    "exchange": "NYSE",
+    "items": [
+      "1.01",
+      "2.01",
+      "2.03",
+      "3.02",
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "2.01: Completion of Acquisition or Disposition of Assets",
+      "2.03: Creation of a Direct Financial Obligation",
+      "3.02: Unregistered Sales of Equity Securities",
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 2.01: Completion of Acquisition or Disposition of Assets | 2.03: Creation of a Direct Financial Obligation | 3.02: Unregistered Sales of Equity Securities | 7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075757/exhibit991loclrevolclosing.htm",
+    "pressReleaseExcerpt": "EX-99.1 15 exhibit991loclrevolclosing.htm EX-99.1 Document Exhibit 99.1 Local Bounti Becomes Largest Leafy Greens CEA Grower in the U.S. with Completed Acquisition of Revol Greens\u2019 Certified-Organic Facilities Local Bounti\u2019s growing footprint expands roughly 70% FoodVentures, a Member of the DENSO Group, Local Bounti\u2019s Existing Strategic Investor and Other Investors Backed Completed Transaction HAMILTON, Mont., November 24, 2026 \u2013 Local Bounti Corporation (NYSE: LOCL) (\u201cLocal...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "exhibit991loclrevolclosing.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075757/exhibit991loclrevolclosing.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075757/0001628280-26-075757-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075756",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001065059",
+    "companyName": "CENTRUS ENERGY CORP  (LEU)  (CIK 0001065059)",
+    "ticker": "LEU",
+    "exchange": "NYSE",
+    "items": [
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/centrusenergytohostinves.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 centrusenergytohostinves.htm EX-99.1 centrusenergytohostinves Centrus Energy to Host Investor Day on December 7, 2026 November 24, 2026 BETHESDA, Md., Nov. 24, 2026 /PRNewswire/ -- Centrus Energy (NYSE: LEU) today announced that it will host an Investor Day on Monday, December 7, 2026, at its American Centrifuge Plant in Piketon, Ohio. The event will feature presentations from Amir Vexler, President and Chief Executive Officer, Todd Tinelli, Senior Vice President, Chief Financial...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "leu-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/leu-20261124.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "centrusenergytohostinves.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/centrusenergytohostinves.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "leu-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/leu-20261124.xsd"
+      },
+      {
+        "type": "EX-101.DEF",
+        "filename": "leu-20261124_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/leu-20261124_def.xml"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "leu-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/leu-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "leu-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/leu-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026075756/0001628280-26-075756-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075747",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0000899715",
+    "companyName": "TANGER INC.  (SKT)  (CIK 0000899715)",
+    "ticker": "SKT",
+    "exchange": "NYSE",
+    "items": [
+      "5.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers On November 20, 2026, Tanger Inc. (the \u201cCompany\u201d) and Tanger Properties Limited Partnership, the Company\u2019s operating partnership (the \u201cOperating Partnership\u201d) entered into an Amended and Restated Employment Agreement dated as of November 20, 2026, (the \u201cEmployment Agreement\u201d), with Stephen Yalof who serves as the Company\u2019s...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "skt-20261120.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/skt-20261120.htm"
+      },
+      {
+        "type": "EX-10.1",
+        "filename": "ex101conformedupdated.htm",
+        "description": "EX-10.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/ex101conformedupdated.htm"
+      },
+      {
+        "type": "EX-10.2",
+        "filename": "ex102conformed.htm",
+        "description": "EX-10.2",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/ex102conformed.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "skt-20261120.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/skt-20261120.xsd"
+      },
+      {
+        "type": "EX-101.DEF",
+        "filename": "skt-20261120_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/skt-20261120_def.xml"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "skt-20261120_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/skt-20261120_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "skt-20261120_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/skt-20261120_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/899715/000162828026075747/0001628280-26-075747-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075742",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001411342",
+    "companyName": "Ellington Financial Inc.  (EFC, EFC-PB, EFC-PC, EFC-PD)  (CIK 0001411342)",
+    "ticker": "EFC",
+    "exchange": "NYSE",
+    "items": [
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-exhibitx1026bvrelease.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 efc-exhibitx1026bvrelease.htm EX-99.1 Document Exhibit 99.1 Ellington Financial Announces Estimated Book Value Per Common Share as of October 31, 2026 OLD GREENWICH, Conn., November 24, 2026\u2014Ellington Financial Inc. (NYSE: EFC) (\"we\") today announced an estimated book value per share of common stock of $13.40 as of October 31, 2026. This estimate includes the effect of the previously announced monthly dividend of $0.13 per share of common stock, to be paid on November 30, 2026 to...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "efc-20261124.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-20261124.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "efc-exhibitx1026bvrelease.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-exhibitx1026bvrelease.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "efc-20261124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-20261124.xsd"
+      },
+      {
+        "type": "EX-101.DEF",
+        "filename": "efc-20261124_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-20261124_def.xml"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "efc-20261124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-20261124_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "efc-20261124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-20261124_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/0001628280-26-075742-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075724",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0000877212",
+    "companyName": "ZEBRA TECHNOLOGIES CORP  (ZBRA)  (CIK 0000877212)",
+    "ticker": "ZBRA",
+    "exchange": "Nasdaq",
+    "items": [
+      "1.01",
+      "2.03",
+      "8.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "2.03: Creation of a Direct Financial Obligation",
+      "8.01: Other Events",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 2.03: Creation of a Direct Financial Obligation | 8.01: Other Events | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/zebradebtrefinancingpressr.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 zebradebtrefinancingpressr.htm EX-99.1 Document EXHIBIT 99.1 Zebra Technologies Completes Debt Refinancing Lincolnshire, Ill., Nov. 24, 2026 \u2500 Zebra Technologies Corporation (NASDAQ: ZBRA), a global leader in digitizing and automating workflows to deliver intelligent operations, today announced actions to refinance its debt and expand liquidity. Debt Refinancing Highlights: \u2022 The refinanced facility is a five-year $3.50 billion senior secured credit facility consisting of a $1.75...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "zbra-20261120.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/zbra-20261120.htm"
+      },
+      {
+        "type": "EX-99.1",
+        "filename": "zebradebtrefinancingpressr.htm",
+        "description": "EX-99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/zebradebtrefinancingpressr.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "zbra-20261120.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/zbra-20261120.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "zbra-20261120_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/zbra-20261120_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "zbra-20261120_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/zbra-20261120_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/0001628280-26-075724-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075678",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0000026324",
+    "companyName": "CURTISS WRIGHT CORP  (CW)  (CIK 0000026324)",
+    "ticker": "CW",
+    "exchange": "NYSE",
+    "items": [
+      "5.02"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers As reported on a Form 8-K filed by Curtiss-Wright Corporation (the \u201cCompany\u201d) on September 21, 2026, the Company announced, among other things, that Lynn M. Bamford, Chair and Chief Executive Officer of the Company, will retire from her position as Chief Executive Officer on December 31, 2026, and will transition to the position of...",
+    "exhibits": [
+      {
+        "type": "8-K",
+        "filename": "cw-20261118.htm",
+        "description": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/cw-20261118.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "cw-20261118.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/cw-20261118.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "cw-20261118_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/cw-20261118_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "cw-20261118_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/cw-20261118_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/0001628280-26-075678-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075677",
+    "formType": "8-K/A",
+    "isAmendment": true,
+    "filedAt": "2026-11-24",
+    "cik": "0000026324",
+    "companyName": "CURTISS WRIGHT CORP  (CW)  (CIK 0000026324)",
+    "ticker": "CW",
+    "exchange": "NYSE",
+    "items": [
+      "5.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "5.02: Departure/Appointment of Directors or Principal Officers (Executive Change) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": false,
+    "primaryExcerpt": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers As reported on a Form 8-K filed by Curtiss-Wright Corporation (the \u201cCompany\u201d) on October 6, 2026 (the \u201cOriginal Form 8-K\u201d), the Company announced, among other things, that the Board of Directors of the Company (the \u201cBoard\u201d) had appointed Gary A. Ogilby, the Company\u2019s Senior Vice President and Corporate Controller, to also serve...",
+    "exhibits": [
+      {
+        "type": "8-K/A",
+        "filename": "cw-20261005.htm",
+        "description": "8-K/A",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/cw-20261005.htm"
+      },
+      {
+        "type": "EX-10.1",
+        "filename": "ex101-garyinterimcfocomp.htm",
+        "description": "EX-10.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/ex101-garyinterimcfocomp.htm"
+      },
+      {
+        "type": "EX-101.SCH",
+        "filename": "cw-20261005.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/cw-20261005.xsd"
+      },
+      {
+        "type": "EX-101.LAB",
+        "filename": "cw-20261005_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/cw-20261005_lab.xml"
+      },
+      {
+        "type": "EX-101.PRE",
+        "filename": "cw-20261005_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/cw-20261005_pre.xml"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/0001628280-26-075677-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075612",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0002062583",
+    "companyName": "MiniMed Group, Inc.  (MMED)  (CIK 0002062583)",
+    "ticker": "MMED",
+    "exchange": "Nasdaq",
+    "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)",
+      "7.01: Regulation FD Disclosure",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings) | 7.01: Regulation FD Disclosure | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/2062583/000162828026075612/exhibit991-fy27q2earningsr.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 exhibit991-fy27q2earningsr.htm EX-99.1 Q2 2027 EARNINGS RELEASE Document Exhibit 99.1 NEWS RELEASE FOR IMMEDIATE RELEASE MiniMed Delivers Strong Fiscal Q2 with Accelerating Pump Demand, Expanding Profitability, and Faster Pipeline Commercialization NORTHRIDGE, Calif., November 24, 2026 \u2013 MiniMed (Nasdaq: MMED) today reported financial results for its second quarter (Q2) of fiscal year 2027 (FY27), ended October 30, 2026. \u2022 Accelerating pump demand supports durable growth: New...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "exhibit991-fy27q2earningsr.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/2062583/000162828026075612/exhibit991-fy27q2earningsr.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/2062583/000162828026075612/0001628280-26-075612-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075607",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001822359",
+    "companyName": "DocGo Inc.  (DCGO)  (CIK 0001822359)",
+    "ticker": "DCGO",
+    "exchange": "Nasdaq",
+    "items": [
+      "1.01",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "1.01: Entry into a Material Definitive Agreement",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "1.01: Entry into a Material Definitive Agreement | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1822359/000162828026075607/ex991crmsrelease.htm",
+    "pressReleaseExcerpt": "EX-99.1 3 ex991crmsrelease.htm EX-99.1 Document Exhibit 99.1 DocGo Signs Definitive Agreement to Sell Cardiac RMS Implantable Cardiac Device Monitoring Business to Medical Monitoring Corp Total Consideration of Up to $25 Million, Which Includes $20 Million in Cash at Closing, With Potential Earnout Payments of $5 Million NEW YORK, NY, November 23, 2026 \u2013 DocGo Inc. (Nasdaq: DCGO) (\u201cDocGo\u201d or the \u201cCompany\u201d), a leading provider of technology-enabled mobile health and medical...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "ex991crmsrelease.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1822359/000162828026075607/ex991crmsrelease.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1822359/000162828026075607/0001628280-26-075607-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075606",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001409171",
+    "companyName": "Titan Machinery Inc.  (TITN)  (CIK 0001409171)",
+    "ticker": "TITN",
+    "exchange": "Nasdaq",
+    "items": [
+      "2.02"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings)",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/afy27q3ex991earningsrelease.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 afy27q3ex991earningsrelease.htm EX-99.1 Document Titan Machinery Inc. Announces Results for Fiscal Third Quarter Ended October 31, 2026 - Gross Margin Expanded 250 bps y/y as Inventory Actions Continue to Drive Margin Recovery - - Updates Fiscal 2027 Segment Modeling Assumptions; Reaffirms Profitability Outlook - West Fargo, ND \u2013 November 24, 2026 \u2013 Titan Machinery Inc. (Nasdaq: TITN) (\"Titan\" or the \"Company\"), a leading network of full-service agricultural and construction...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "afy27q3ex991earningsrelease.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/afy27q3ex991earningsrelease.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/0001628280-26-075606-index.htm"
+  },
+  {
+    "recordType": "form_8k",
+    "accessionNumber": "0001628280-26-075604",
+    "formType": "8-K",
+    "isAmendment": false,
+    "filedAt": "2026-11-24",
+    "cik": "0001613103",
+    "companyName": "Medtronic plc  (MDT)  (CIK 0001613103)",
+    "ticker": "MDT",
+    "exchange": "NYSE",
+    "items": [
+      "2.02",
+      "9.01"
+    ],
+    "itemDescriptions": [
+      "2.02: Results of Operations and Financial Condition (Earnings)",
+      "9.01: Financial Statements and Exhibits"
+    ],
+    "eventSummary": "2.02: Results of Operations and Financial Condition (Earnings) | 9.01: Financial Statements and Exhibits",
+    "hasPressRelease": true,
+    "exhibit991Url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026075604/exhibit991-fy27q2earningsr.htm",
+    "pressReleaseExcerpt": "EX-99.1 2 exhibit991-fy27q2earningsr.htm EX-99.1 Document Exhibit 99.1 NEWS RELEASE FOR IMMEDIATE RELEASE Medtronic reports second quarter fiscal 2027 results; performance reflects consistent execution across the portfolio Strong performance in the company\u2019s core franchises, scaling growth platforms and recent portfolio actions, strengthens the foundation for sustained long-term growth GALWAY, Ireland \u2013 November 24, 2026 \u2013 Medtronic plc (NYSE: MDT), a global leader in healthcare...",
+    "exhibits": [
+      {
+        "type": "EX-99.1",
+        "filename": "exhibit991-fy27q2earningsr.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026075604/exhibit991-fy27q2earningsr.htm"
+      }
+    ],
+    "secFilingUrl": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026075604/0001628280-26-075604-index.htm"
+  }
+]

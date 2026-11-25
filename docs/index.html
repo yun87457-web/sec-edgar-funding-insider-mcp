@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Live SEC Form D Startup Funding &amp; Form 4 Insider Cluster Buys Index (Nov 2026) — FilingSignal</title>
+<meta name="description" content="Open Nov 2026 SEC EDGAR explorer: SPV-filtered US startup Form D rounds, VWAP-consolidated Form 4 insider &amp; cluster buys, and 8-K EX-99.1 press releases.">
+<meta property="og:title" content="Live SEC Form D Startup Funding &amp; Form 4 Insider Cluster Buys Index">
+<meta property="og:image" content="https://raw.githubusercontent.com/yun87457-web/sec-edgar-funding-insider-mcp/main/cover.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Live SEC EDGAR Startup Funding (Form D), Insider Cluster Buys (Form 4) & 8-K Events Index", "description": "Open Nov 2026 SEC EDGAR dataset: SPV-filtered US startup Form D rounds, VWAP-consolidated Form 4 insider & cluster buys, and Form 8-K EX-99.1 catalysts.", "url": "https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/", "license": "https://opensource.org/licenses/MIT", "datePublished": "2026-11-24"}</script>
+<style>
+  :root { --bg:#071018; --card:#0f1a26; --border:#1e3148; --text:#e8eef9; --muted:#8fa4bf; --accent:#10b981; --accent2:rgba(16,185,129,.15); }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,Inter,sans-serif; background:var(--bg); color:var(--text); line-height:1.5; }
+  a { color:#34d399; text-decoration:none; } a:hover { text-decoration:underline; }
+  .wrap { max-width:1240px; margin:0 auto; padding:28px 20px 64px; }
+  header { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:flex-end; gap:16px; border-bottom:1px solid var(--border); padding-bottom:20px; margin-bottom:22px; }
+  .badge { display:inline-block; font-size:12px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; padding:4px 10px; border-radius:999px; background:var(--accent2); border:1px solid rgba(52,211,153,.35); color:#6ee7b7; margin-bottom:10px; }
+  h1 { margin:0 0 8px; font-size:clamp(24px,3.2vw,34px); letter-spacing:-.02em; }
+  .sub { margin:0; color:var(--muted); max-width:760px; font-size:15px; }
+  .cta { display:flex; flex-wrap:wrap; gap:10px; }
+  .btn { display:inline-flex; align-items:center; padding:10px 15px; border-radius:10px; font-size:13px; font-weight:600; border:1px solid var(--border); background:var(--card); color:var(--text); cursor:pointer; }
+  .btn.primary { background:var(--accent); color:#041510; border-color:transparent; }
+  .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:14px; margin-bottom:22px; }
+  .kpi { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:16px 18px; }
+  .kpi .lbl { font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; }
+  .kpi .val { font-size:28px; font-weight:700; margin-top:4px; }
+  .kpi .hint { font-size:12px; color:var(--muted); margin-top:2px; }
+  .tabs { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:14px; }
+  .tab { background:var(--card); border:1px solid var(--border); color:var(--muted); padding:9px 15px; border-radius:10px; font-size:13.5px; font-weight:700; cursor:pointer; }
+  .tab.active { background:var(--accent); color:#041510; border-color:transparent; }
+  .search { width:100%; max-width:440px; background:var(--card); border:1px solid var(--border); color:var(--text); padding:10px 14px; border-radius:10px; font-size:14px; margin-bottom:14px; outline:none; }
+  .table-wrap { overflow-x:auto; background:var(--card); border:1px solid var(--border); border-radius:14px; }
+  table { width:100%; border-collapse:collapse; font-size:13.5px; }
+  th { text-align:left; padding:12px 14px; border-bottom:1px solid var(--border); color:var(--muted); font-weight:600; white-space:nowrap; }
+  td { padding:11px 14px; border-bottom:1px solid rgba(30,49,72,.55); vertical-align:top; }
+  tr:last-child td { border-bottom:none; }
+  .pill { display:inline-block; padding:2px 8px; border-radius:999px; font-size:11.5px; font-weight:700; background:rgba(255,255,255,.08); }
+  .pill.buy { background:rgba(16,185,129,.2); color:#6ee7b7; }
+  .pill.sell { background:rgba(244,63,94,.2); color:#fda4af; }
+  .mcp-box { margin-top:26px; background:var(--card); border:1px solid var(--border); border-radius:14px; padding:18px 20px; display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px; }
+  code { background:#060c13; border:1px solid var(--border); padding:8px 12px; border-radius:8px; font-family:ui-monospace,Menlo,monospace; font-size:12.5px; color:#cbd5e1; }
+  footer { margin-top:30px; color:var(--muted); font-size:12.5px; display:flex; flex-wrap:wrap; justify-content:space-between; gap:10px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="badge">FilingSignal · Official SEC EDGAR Open Dataset (Nov 2026)</div>
+      <h1>Live US Startup Funding (Form D), Insider Cluster Buys &amp; 8-K Index</h1>
+      <p class="sub">Direct official SEC EDGAR XML/JSON extraction — dual SPV/fund filtering strips ~75% Form D noise, Form 4 partial fills are VWAP-consolidated with major-exchange filtering, and 8-K filings include automatic EX-99.1 press releases.</p>
+    </div>
+    <div class="cta">
+      <a class="btn primary" href="https://apify.com/spiky_closet/sec-funding-insider-mcp" target="_blank" rel="noopener">Run on Apify (3,333 Free/mo)</a>
+      <a class="btn" href="https://raw.githubusercontent.com/yun87457-web/sec-edgar-funding-insider-mcp/main/benchmarks/form-d-startups-nov-2026.csv" download>Form D CSV</a>
+      <a class="btn" href="https://raw.githubusercontent.com/yun87457-web/sec-edgar-funding-insider-mcp/main/benchmarks/form-4-insiders-nov-2026.csv" download>Form 4 CSV</a>
+      <a class="btn" href="https://github.com/yun87457-web/sec-edgar-funding-insider-mcp" target="_blank" rel="noopener">GitHub Repo</a>
+    </div>
+  </header>
+
+  <section class="kpis" id="kpis"></section>
+  <div class="tabs" id="tabs"></div>
+  <input id="q" class="search" type="search" placeholder="Search startup, ticker, insider, state, or 8-K item..." autocomplete="off">
+  <div class="table-wrap"><table><thead><tr id="thead"></tr></thead><tbody id="tbody"></tbody></table></div>
+
+  <div class="mcp-box">
+    <div><strong>Connect 6 SEC EDGAR Tools to Claude Desktop, Cursor, or n8n:</strong><br><span style="color:var(--muted);font-size:13px;">Zero dependencies · Node 18+ · <code>search_startup_funding</code>, <code>search_insider_trades</code>, <code>find_insider_cluster_buys</code>, <code>search_corporate_events</code>, <code>get_company_sec_dossier</code>, <code>get_filing_document</code></span></div>
+    <div><code id="cmd">npx -y github:yun87457-web/sec-edgar-funding-insider-mcp</code> <button class="btn" id="copyBtn" type="button">Copy</button></div>
+  </div>
+  <footer>
+    <span>Live SEC EDGAR snapshot collected November 24, 2026. MIT Open Dataset. Not investment advice.</span>
+    <span><a href="https://github.com/yun87457-web/sec-edgar-funding-insider-mcp/tree/main/benchmarks">All JSON &amp; CSV Files</a> · <a href="https://github.com/yun87457-web/sec-edgar-funding-insider-mcp/blob/main/integrations/clay-http-enrichment.json">Clay HTTP Recipe</a></span>
+  </footer>
+</div>
+<script>
+let DB = null, TAB = 'funding';
+const esc = s => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const usd = v => v ? '$' + Math.round(Number(v)).toLocaleString() : '—';
+document.getElementById('copyBtn').onclick = () => { navigator.clipboard.writeText(document.getElementById('cmd').textContent); document.getElementById('copyBtn').textContent='Copied!'; setTimeout(()=>document.getElementById('copyBtn').textContent='Copy',1400); };
+
+const TABS = [
+  { id:'funding', label:'Form D Startups', cols:['Startup','Sold (USD)','Industry','HQ','CEO / Officer','Filed'], row:r=>[`<a href="${esc(r.url)}" target="_blank"><strong>${esc(r.company)}</strong></a>`, usd(r.sold), esc(r.industry), esc(r.state), esc(r.ceo), esc(r.filed)] },
+  { id:'clusters', label:'Form 4 Cluster Buys', cols:['Ticker','Exchange','Distinct Buyers','C-Suite','Total Buy (USD)','VWAP','Summary'], row:r=>[`<a href="${esc(r.url)}" target="_blank"><strong>${esc(r.ticker)}</strong></a>`, esc(r.exchange), `<span class="pill buy">${r.buyers}</span>`, r.csuite, usd(r.totalBuy), '$'+Number(r.vwap||0).toFixed(2), esc(r.summary)] },
+  { id:'insiders', label:'Form 4 Trades (VWAP)', cols:['Ticker','Exchange','Insider','Title','Code','Value (USD)','Fills','Date'], row:r=>[`<a href="${esc(r.url)}" target="_blank"><strong>${esc(r.ticker)}</strong></a>`, esc(r.exchange), esc(r.insider), esc(r.title), `<span class="pill ${r.code==='P'?'buy':'sell'}">${esc(r.code)}</span>`, usd(r.value), r.fills, esc(r.date)] },
+  { id:'events', label:'Form 8-K + EX-99.1', cols:['Ticker / Issuer','Items','EX-99.1','Excerpt','Filed'], row:r=>[`<a href="${esc(r.url)}" target="_blank"><strong>${esc(r.ticker!=='—'?r.ticker:r.company)}</strong></a>`, esc(r.items), r.hasPr?'<span class="pill buy">Yes</span>':'<span class="pill">No</span>', esc(r.excerpt), esc(r.filed)] },
+];
+
+function render() {
+  const m = DB.meta;
+  document.getElementById('kpis').innerHTML = [
+    ['US Startup Form D Rounds', m.fundingCount, '$' + Math.round(m.fundingTotalUsd/1e6).toLocaleString() + 'M total sold (SPVs stripped)'],
+    ['Form 4 Open-Market Trades', m.insidersCount, 'VWAP partial-fill consolidated, Major Exchanges'],
+    ['Multi-Insider Cluster Buys', m.clustersCount, '2+ distinct insiders, net-buy guarded'],
+    ['Form 8-K Catalysts', m.eventsCount, m.eventsWithEx991 + ' with EX-99.1 press releases']
+  ].map(([l,v,h])=>`<div class="kpi"><div class="lbl">${l}</div><div class="val">${v}</div><div class="hint">${h}</div></div>`).join('');
+
+  document.getElementById('tabs').innerHTML = TABS.map(t=>`<button class="tab ${t.id===TAB?'active':''}" data-id="${t.id}">${t.label} (${(DB[t.id]||[]).length})</button>`).join('');
+  document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{ TAB=b.dataset.id; render(); });
+
+  const cfg = TABS.find(t=>t.id===TAB);
+  document.getElementById('thead').innerHTML = cfg.cols.map(c=>`<th>${c}</th>`).join('');
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const rows = (DB[TAB]||[]).filter(r=>!q || JSON.stringify(r).toLowerCase().includes(q));
+  document.getElementById('tbody').innerHTML = rows.length
+    ? rows.map(r=>'<tr>'+cfg.row(r).map(c=>`<td>${c}</td>`).join('')+'</tr>').join('')
+    : `<tr><td colspan="${cfg.cols.length}" style="text-align:center;padding:24px;color:var(--muted);">No matching filings.</td></tr>`;
+}
+document.getElementById('q').addEventListener('input', render);
+fetch('./data.json').then(r=>r.json()).then(d=>{ DB=d; render(); });
+</script>
+</body></html>

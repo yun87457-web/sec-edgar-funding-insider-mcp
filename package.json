@@ -1,0 +1,34 @@
+{
+  "name": "filingsignal-sec-edgar-mcp",
+  "version": "1.0.0",
+  "description": "Zero-dependency 6-tool MCP server for official SEC EDGAR Form D startup funding, VWAP-consolidated Form 4 insider & cluster buys, and Form 8-K EX-99.1 press releases.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "sec-edgar-funding-insider-mcp": "./bin/mcp.mjs"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "sec-edgar",
+    "form-d",
+    "form-4",
+    "form-8k",
+    "insider-trading",
+    "startup-funding",
+    "finance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yun87457-web/sec-edgar-funding-insider-mcp.git"
+  },
+  "homepage": "https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/"
+}

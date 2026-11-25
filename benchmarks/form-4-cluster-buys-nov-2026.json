@@ -1,0 +1,85 @@
+[
+  {
+    "recordType": "insider_cluster_buy",
+    "issuerCik": "0001812727",
+    "issuerName": "Reliance Global Group, Inc.",
+    "ticker": "XGPU",
+    "exchange": "Nasdaq",
+    "distinctInsiderBuyers": 3,
+    "cSuiteBuyerCount": 3,
+    "totalBuyValueUsd": 514553,
+    "totalSharesBought": 197905,
+    "vwapClusterPriceUsd": 2.6,
+    "avgPercentChangeHoldings": 447.03,
+    "hasConcurrentSales": false,
+    "totalConcurrentSellUsd": 0,
+    "netBuyMinusSellUsd": 514553,
+    "buyerNames": [
+      "Beyman Ezra",
+      "Beyman Mordechai Menachem",
+      "Korman Judah"
+    ],
+    "buyerSummary": "3 insiders bought $515K (Beyman Ezra, Beyman Mordechai Menachem, Korman Judah)",
+    "firstBuyDate": "2026-11-20",
+    "lastBuyDate": "2026-11-20",
+    "filingUrls": [
+      "https://www.sec.gov/Archives/edgar/data/1812727/000149315226053875/0001493152-26-053875-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1812727/000149315226053878/0001493152-26-053878-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1812727/000149315226053882/0001493152-26-053882-index.htm"
+    ]
+  },
+  {
+    "recordType": "insider_cluster_buy",
+    "issuerCik": "0000913760",
+    "issuerName": "StoneX Group Inc.",
+    "ticker": "SNEX",
+    "exchange": "Nasdaq",
+    "distinctInsiderBuyers": 2,
+    "cSuiteBuyerCount": 1,
+    "totalBuyValueUsd": 497468.08,
+    "totalSharesBought": 12918,
+    "vwapClusterPriceUsd": 38.5097,
+    "avgPercentChangeHoldings": 22.98,
+    "hasConcurrentSales": false,
+    "totalConcurrentSellUsd": 0,
+    "netBuyMinusSellUsd": 497468.08,
+    "buyerNames": [
+      "Lyon Charles M",
+      "Thamodaran Dhamu R."
+    ],
+    "buyerSummary": "2 insiders bought $497K (Lyon Charles M, Thamodaran Dhamu R.)",
+    "firstBuyDate": "2026-11-23",
+    "lastBuyDate": "2026-11-24",
+    "filingUrls": [
+      "https://www.sec.gov/Archives/edgar/data/913760/000153135226000016/0001531352-26-000016-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/913760/000162057626000010/0001620576-26-000010-index.htm"
+    ]
+  },
+  {
+    "recordType": "insider_cluster_buy",
+    "issuerCik": "0001141197",
+    "issuerName": "PEDEVCO CORP",
+    "ticker": "PED",
+    "exchange": "NYSE",
+    "distinctInsiderBuyers": 2,
+    "cSuiteBuyerCount": 0,
+    "totalBuyValueUsd": 465080,
+    "totalSharesBought": 44000,
+    "vwapClusterPriceUsd": 10.57,
+    "avgPercentChangeHoldings": 0.81,
+    "hasConcurrentSales": true,
+    "totalConcurrentSellUsd": 73990,
+    "netBuyMinusSellUsd": 391090,
+    "buyerNames": [
+      "Geiser Edward",
+      "Juniper Capital IV GP, L.P."
+    ],
+    "buyerSummary": "2 insiders bought $465K (Geiser Edward, Juniper Capital IV GP, L.P.)",
+    "firstBuyDate": "2026-11-23",
+    "lastBuyDate": "2026-11-23",
+    "filingUrls": [
+      "https://www.sec.gov/Archives/edgar/data/1141197/000121390026123737/0001213900-26-123737-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1141197/000121390026123738/0001213900-26-123738-index.htm"
+    ]
+  }
+]

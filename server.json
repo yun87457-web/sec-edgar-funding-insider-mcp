@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.yun87457-web/sec-edgar-funding-insider-mcp",
+  "title": "FilingSignal \u2014 SEC Form D Startup Funding, Form 4 Insider & 8-K MCP",
+  "description": "6-tool SEC EDGAR MCP: Form D startups (SPV-filtered), Form 4 VWAP/cluster buys & 8-K EX-99.1.",
+  "repository": {
+    "url": "https://github.com/yun87457-web/sec-edgar-funding-insider-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://spiky-closet--sec-funding-insider-mcp.apify.actor/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Apify Bearer token (Bearer <YOUR_APIFY_TOKEN>)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

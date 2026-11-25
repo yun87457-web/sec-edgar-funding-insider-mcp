@@ -1,0 +1,26 @@
+{
+  "provider": "FilingSignal SEC Form D Startup Funding API",
+  "method": "POST",
+  "endpoint": "https://spiky-closet--sec-funding-insider-mcp.apify.actor/funding",
+  "headers": {
+    "Authorization": "Bearer {{YOUR_APIFY_TOKEN}}",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "days": 7,
+    "excludeFunds": true,
+    "excludeSpvs": true,
+    "minAmountSoldUsd": 1000000,
+    "maxResults": 25
+  },
+  "extract_fields": [
+    "cleanCompanyName",
+    "fundingSummary",
+    "totalAmountSoldUsd",
+    "ceoName",
+    "city",
+    "stateOrCountry",
+    "issuerPhoneNumber",
+    "secFilingUrl"
+  ]
+}
