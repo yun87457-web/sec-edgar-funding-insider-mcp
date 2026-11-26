@@ -5,7 +5,8 @@
   "type": "module",
   "license": "MIT",
   "bin": {
-    "sec-edgar-funding-insider-mcp": "./bin/mcp.mjs"
+    "sec-edgar-funding-insider-mcp": "bin/mcp.mjs",
+    "filingsignal-sec-edgar-mcp": "bin/mcp.mjs"
   },
   "files": [
     "bin/",
@@ -28,8 +29,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yun87457-web/sec-edgar-funding-insider-mcp.git"
+    "url": "git+https://github.com/yun87457-web/sec-edgar-funding-insider-mcp.git"
   },
   "homepage": "https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/",
   "mcpName": "io.github.yun87457-web/sec-edgar-funding-insider-mcp"
 }
+
