@@ -46,6 +46,19 @@
   .mcp-box { margin-top:26px; background:var(--card); border:1px solid var(--border); border-radius:14px; padding:18px 20px; display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px; }
   code { background:#060c13; border:1px solid var(--border); padding:8px 12px; border-radius:8px; font-family:ui-monospace,Menlo,monospace; font-size:12.5px; color:#cbd5e1; }
   footer { margin-top:30px; color:var(--muted); font-size:12.5px; display:flex; flex-wrap:wrap; justify-content:space-between; gap:10px; }
+
+  .live-tester { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:18px 20px; margin-bottom:22px; }
+  .live-tester h2 { margin:0 0 4px; font-size:17px; letter-spacing:-.01em; color:var(--text); }
+  .live-tester p { margin:0 0 12px; font-size:13.5px; color:var(--muted); }
+  .live-form { display:flex; flex-wrap:wrap; gap:10px; align-items:center; }
+  .live-input { flex:1 1 260px; background:var(--bg); border:1px solid var(--border); color:var(--text); padding:10px 14px; border-radius:10px; font-size:14px; outline:none; }
+  .live-input:focus { border-color:var(--accent); }
+  .live-examples { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; align-items:center; font-size:12px; color:var(--muted); }
+  .live-ex-btn { background:rgba(255,255,255,.05); border:1px solid var(--border); color:var(--text); padding:4px 10px; border-radius:999px; font-size:12px; cursor:pointer; }
+  .live-ex-btn:hover { border-color:var(--accent); }
+  .live-out-wrap { margin-top:14px; display:none; }
+  .live-out-meta { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:8px; margin-bottom:8px; font-size:12.5px; color:var(--muted); }
+  .live-pre { margin:0; background:#060a10; border:1px solid var(--border); border-radius:10px; padding:14px; font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:12.5px; color:#d1fae5; overflow-x:auto; max-height:340px; white-space:pre-wrap; word-break:break-word; }
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "FilingSignal \u2014 SEC EDGAR Form D, Form 4 Cluster Buys & 8-K MCP Server", "applicationCategory": "DeveloperApplication", "operatingSystem": "Any", "softwareVersion": "1.0.2", "url": "https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/", "downloadUrl": "https://apify.com/spiky_closet/sec-funding-insider-mcp", "sameAs": ["https://github.com/yun87457-web/sec-edgar-funding-insider-mcp", "https://apify.com/spiky_closet/sec-funding-insider-mcp"], "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}</script>
 </head>
@@ -65,6 +78,24 @@
     </div>
   </header>
 
+  
+  <section class="live-tester" id="liveTesterSection">
+    <h2>Try Live SEC EDGAR Company Dossier (Free · No Signup · 10/day)</h2>
+    <p>Enter any US public stock ticker to pull live official SEC EDGAR CIK, exchange, SIC industry, and latest 8-K / Form 4 / 10-Q filings.</p>
+    <form class="live-form" id="liveTesterForm">
+      <input class="live-input" id="liveTesterInput" type="text" placeholder="e.g. NVDA, AAPL, MSFT, TSLA" value="NVDA" required>
+      <button class="btn primary" id="liveTesterBtn" type="submit">Run Live Test</button>
+    </form>
+    <div class="live-examples"><span>Quick examples:</span><button type="button" class="live-ex-btn" data-ex="NVDA">NVDA</button><button type="button" class="live-ex-btn" data-ex="AAPL">AAPL</button><button type="button" class="live-ex-btn" data-ex="MSFT">MSFT</button></div>
+    <div class="live-out-wrap" id="liveTesterOutWrap">
+      <div class="live-out-meta">
+        <span id="liveTesterStatus"></span>
+        <span>Need bulk batch runs or full API quota? <a href="https://apify.com/spiky_closet/sec-funding-insider-mcp" target="_blank" rel="noopener">Apify Store</a> · <a href="https://rapidapi.com/HYunLe/api/sec-edgar-form-d-funding-form-4-insider-8-k-api" target="_blank" rel="noopener">RapidAPI</a></span>
+      </div>
+      <pre class="live-pre" id="liveTesterPre"></pre>
+    </div>
+  </section>
+
   <section class="kpis" id="kpis"></section>
   <div class="tabs" id="tabs"></div>
   <input id="q" class="search" type="search" placeholder="Search startup, ticker, insider, state, or 8-K item..." autocomplete="off">
@@ -72,7 +103,7 @@
 
   <div class="mcp-box">
     <div><strong>Connect 6 SEC EDGAR Tools to Claude Desktop, Cursor, or n8n:</strong><br><span style="color:var(--muted);font-size:13px;">Zero dependencies · Node 18+ · <code>search_startup_funding</code>, <code>search_insider_trades</code>, <code>find_insider_cluster_buys</code>, <code>search_corporate_events</code>, <code>get_company_sec_dossier</code>, <code>get_filing_document</code></span></div>
-    <div><code id="cmd">npx -y github:yun87457-web/sec-edgar-funding-insider-mcp</code> <button class="btn" id="copyBtn" type="button">Copy</button></div>
+    <div><code id="cmd">npx -y filingsignal-sec-edgar-mcp</code> <button class="btn" id="copyBtn" type="button">Copy</button></div>
   </div>
   <footer>
     <span>Live SEC EDGAR snapshot collected November 24, 2026. MIT Open Dataset. Not investment advice.</span>
@@ -115,4 +146,49 @@ function render() {
 document.getElementById('q').addEventListener('input', render);
 fetch('./data.json').then(r=>r.json()).then(d=>{ DB=d; render(); });
 </script>
+
+<script>
+(() => {
+  const form = document.getElementById("liveTesterForm");
+  const inp = document.getElementById("liveTesterInput");
+  const btn = document.getElementById("liveTesterBtn");
+  const wrap = document.getElementById("liveTesterOutWrap");
+  const statusEl = document.getElementById("liveTesterStatus");
+  const pre = document.getElementById("liveTesterPre");
+  if (!form) return;
+  async function runLive(val) {
+    const v = String(val || "").trim();
+    if (!v) return;
+    btn.disabled = true;
+    btn.textContent = "Running...";
+    wrap.style.display = "block";
+    statusEl.textContent = "Querying live edge endpoint...";
+    pre.textContent = "";
+    try {
+      const t0 = performance.now();
+      const res = await fetch("https://filingsignal-trial.mcp-edge-trial.workers.dev", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ tool: "get_company_sec_dossier", arguments: { "symbol": v, maxResults: 5 } })
+      });
+      const data = await res.json();
+      const ms = Math.round(performance.now() - t0);
+      const rem = data && data._trial && typeof data._trial.remainingToday === "number" ? ` · ${data._trial.remainingToday}/${data._trial.limitPerDay} free tests left today` : "";
+      statusEl.textContent = res.ok ? `Live response in ${ms} ms${rem}` : `HTTP ${res.status}`;
+      pre.textContent = JSON.stringify(data, null, 2);
+    } catch (err) {
+      statusEl.textContent = "Request failed";
+      pre.textContent = String(err);
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Run Live Test";
+    }
+  }
+  form.addEventListener("submit", (e) => { e.preventDefault(); runLive(inp.value); });
+  document.querySelectorAll("#liveTesterSection .live-ex-btn").forEach((b) => {
+    b.addEventListener("click", () => { inp.value = b.dataset.ex; runLive(b.dataset.ex); });
+  });
+})();
+</script>
+
 </body></html>
