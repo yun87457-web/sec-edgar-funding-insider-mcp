@@ -30,5 +30,6 @@
     "type": "git",
     "url": "https://github.com/yun87457-web/sec-edgar-funding-insider-mcp.git"
   },
-  "homepage": "https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/"
+  "homepage": "https://yun87457-web.github.io/sec-edgar-funding-insider-mcp/",
+  "mcpName": "io.github.yun87457-web/sec-edgar-funding-insider-mcp"
 }
