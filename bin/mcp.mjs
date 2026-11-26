@@ -237,6 +237,9 @@ const TOOLS = [
   }
 ];
 
+const TRIAL_URL = "https://filingsignal-trial.mcp-edge-trial.workers.dev";
+const FETCH_TIMEOUT_MS = 45000;
+
 const writeMsg = (m) => process.stdout.write(JSON.stringify(m) + "\n");
 
 async function proxyMcp(payload, token) {
@@ -247,11 +250,35 @@ async function proxyMcp(payload, token) {
       "Accept": "application/json, text/event-stream",
       "Authorization": `Bearer ${token}`
     },
-    body: JSON.stringify(payload)
+    body: JSON.stringify(payload),
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS)
   });
   const txt = await res.text();
   if (!res.ok) throw new Error(`MCP HTTP ${res.status}: ${txt.slice(0, 260)}`);
+  const ct = res.headers.get("content-type") || "";
+  if (ct.includes("text/event-stream")) {
+    const lines = txt.split(/\r?\n/).filter((l) => l.startsWith("data:"));
+    for (let i = lines.length - 1; i >= 0; i--) {
+      const raw = lines[i].slice(5).trim();
+      if (raw && raw !== "[DONE]") {
+        try { return JSON.parse(raw); } catch {}
+      }
+    }
+    throw new Error("Empty SSE response from MCP endpoint");
+  }
   return JSON.parse(txt);
+}
+
+async function callZeroKeyTrial(toolName, args) {
+  const res = await fetch(TRIAL_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ tool: toolName, arguments: args || {} }),
+    signal: AbortSignal.timeout(30000)
+  });
+  const txt = await res.text();
+  if (!res.ok) throw new Error(`Free trial HTTP ${res.status}: ${txt.slice(0, 260)}`);
+  try { return JSON.stringify(JSON.parse(txt), null, 2); } catch { return txt; }
 }
 
 async function handle(msg) {
@@ -265,19 +292,41 @@ async function handle(msg) {
   if (method === "ping") return hasId && writeMsg({ jsonrpc: "2.0", id, result: {} });
   if (method === "tools/list") {
     if (!hasId) return;
+    const token = process.env.APIFY_TOKEN;
+    if (token) {
+      try {
+        const remote = await proxyMcp({ jsonrpc: "2.0", id, method: "tools/list", params: params || {} }, token);
+        if (remote?.result?.tools) return writeMsg({ jsonrpc: "2.0", id, result: remote.result });
+      } catch (err) {
+        process.stderr.write(`[mcp] fallback to local schema: ${err.message}\n`);
+      }
+    }
     return writeMsg({ jsonrpc: "2.0", id, result: { tools: TOOLS } });
   }
   if (method === "tools/call") {
     if (!hasId) return;
+    const toolName = params?.name;
+    const args = params?.arguments || {};
+    if (!TOOLS.some((t) => t.name === toolName)) {
+      return writeMsg({ jsonrpc: "2.0", id, result: { isError: true, content: [{ type: "text", text: `Unknown tool: ${toolName}. Available tools: ${TOOLS.map((t) => t.name).join(", ")}` }] } });
+    }
     const token = process.env.APIFY_TOKEN;
-    if (!token) {
-      return writeMsg({ jsonrpc: "2.0", id, result: { isError: true, content: [{ type: "text", text: `Set APIFY_TOKEN in your MCP client env (3,333 free SEC filings/mo: ${APIFY_URL}).` }] } });
+    if (token) {
+      try {
+        const remote = await proxyMcp({ jsonrpc: "2.0", id, method: "tools/call", params }, token);
+        if (remote?.error !== undefined && remote.error !== null) {
+          return writeMsg({ jsonrpc: "2.0", id, error: remote.error });
+        }
+        return writeMsg({ jsonrpc: "2.0", id, result: remote?.result ?? { content: [] } });
+      } catch (e) {
+        return writeMsg({ jsonrpc: "2.0", id, result: { isError: true, content: [{ type: "text", text: e.message }] } });
+      }
     }
     try {
-      const remote = await proxyMcp({ jsonrpc: "2.0", id, method: "tools/call", params }, token);
-      return writeMsg({ jsonrpc: "2.0", id, result: remote.result, error: remote.error });
+      const trialOut = await callZeroKeyTrial(toolName, args);
+      return writeMsg({ jsonrpc: "2.0", id, result: { content: [{ type: "text", text: trialOut }] } });
     } catch (e) {
-      return writeMsg({ jsonrpc: "2.0", id, result: { isError: true, content: [{ type: "text", text: e.message }] } });
+      return writeMsg({ jsonrpc: "2.0", id, result: { isError: true, content: [{ type: "text", text: `Free trial error (${e.message}). Set APIFY_TOKEN (${APIFY_URL}) for full access.` }] } });
     }
   }
   if (hasId) writeMsg({ jsonrpc: "2.0", id, error: { code: -32601, message: `Method not found: ${method}` } });
@@ -287,5 +336,9 @@ const rl = readline.createInterface({ input: process.stdin, crlfDelay: Infinity 
 rl.on("line", (line) => {
   const t = line.trim();
   if (!t) return;
-  try { handle(JSON.parse(t)).catch((e) => process.stderr.write(e.message + "\n")); } catch {}
+  try {
+    handle(JSON.parse(t)).catch((e) => process.stderr.write(`[mcp] unhandled error: ${e.message}\n`));
+  } catch (e) {
+    process.stderr.write(`[mcp] invalid JSON: ${e.message}\n`);
+  }
 });
