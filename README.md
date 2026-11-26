@@ -2,6 +2,10 @@
 
 # FilingSignal — SEC Form D Startup Funding, Form 4 Insider Cluster Buys & 8-K Events (REST API & 6-Tool MCP)
 
+[![yun87457-web/sec-edgar-funding-insider-mcp MCP server](https://glama.ai/mcp/servers/yun87457-web/sec-edgar-funding-insider-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yun87457-web/sec-edgar-funding-insider-mcp)
+[![FilingSignal MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/sec-edgar-funding-insider-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/sec-edgar-funding-insider-mcp)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/yun87457-web/sec-edgar-funding-insider-mcp)
+
 Official SEC EDGAR XML/JSON extraction in pure Go — zero headless browsers, zero Cloudflare challenges, zero proxies. Built as an API-first alternative to paywalled Crunchbase/OpenInsider workflows.
 
 ## Live Interactive SEC Intelligence Explorer (Nov 2026 Open Dataset)
