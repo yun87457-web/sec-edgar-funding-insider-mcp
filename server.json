@@ -7,7 +7,7 @@
     "url": "https://github.com/yun87457-web/sec-edgar-funding-insider-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
